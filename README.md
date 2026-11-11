@@ -56,7 +56,7 @@ DeTai5-Cloud-Service-Selection/
 ├── CHAY_UNG_DUNG.bat           # Script chạy ứng dụng (Windows)
 ├── CHAY_KIEM_THU.bat           # Script chạy kiểm thử (Windows)
 ├── BaoCao_DeTai5_Cloud_Service_Selection.docx  # Báo cáo Word đồ án (~25 trang)
-├── ThuyetTrinh_DeTai5_Cloud_Service_Selection.pptx # Slide thuyết trình PowerPoint có hình minh họa
+├── cloud-service.pptx          # Slide thuyết trình PowerPoint (20 slide)
 ├── requirements.txt            # Thư viện cần cài đặt
 └── README.md                   # Tài liệu hướng dẫn (file này)
 ```
